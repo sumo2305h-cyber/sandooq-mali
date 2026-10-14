@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.sumo2305h_cyber.twa",
+      "sha256_cert_fingerprints": ["ED:F7:A9:44:15:FF:9A:43:7A:32:EF:BD:F3:10:98:9D:A9:5E:D0:7B:54:81:15:14:7D:A0:B5:E3:39:EA:A7:64"]
+    }
+  }
+]
